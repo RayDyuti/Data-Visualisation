@@ -3,18 +3,7 @@
 ## 📌 Overview
 This project is a complete data science workflow implemented in a Jupyter Notebook using Python. It covers all major stages of data analysis including data understanding, preprocessing, statistical analysis, and exploratory data analysis (EDA) on the UDPLag dataset.
 
-The goal of this assignment was to understand real-world data, clean and transform it, and extract meaningful insights using statistical and visualization techniques.
-
----
-
-## 👥 Group Details
-**Group Number:** (Add your group number here)
-
-**Members:**
-- Name – Reg No
-- Name – Reg No
-- Name – Reg No
-- Name – Reg No
+The goal of this mini-project was to understand real-world data, clean and transform it, and extract meaningful insights using statistical and visualization techniques.
 
 ---
 
